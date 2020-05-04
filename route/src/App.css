@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+/* Navbar */
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 5%;
+  align-items: flex-end;
+ }
+
+ /* Cards */
+
+ .cards {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 5%;
+    align-items: flex-end;
+ }
+
